@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Suresh-505",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d859228-61dc-4d79-9787-f7bd02c5921a",
+		"tenantId": "cecd35b8-a604-4241-a539-2a904057384a"
+	}
+}
